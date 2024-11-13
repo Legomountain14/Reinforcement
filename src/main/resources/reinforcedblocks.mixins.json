@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.legomountain14.reinforcedblocks.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+      "ReinforcedblocksModRepairItemRecipeMixin"  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

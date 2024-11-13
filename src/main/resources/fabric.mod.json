@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "reinforcement",
+  "version": "1.0.0",
+  "name": "Reinforcement",
+  "description": "Adds a few reinforced block varients to the game.",
+  "authors": [
+    "Legomountain14, mcreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "MIT License",
+  "accessWidener": "reinforcement.accesswidener",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "org.legomountain14.reinforcement.ReinforcementMod"
+    ],
+    "client": [
+      "org.legomountain14.reinforcement.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "~1.20",
+    "java": ">=17"
+  },
+  "mixins": [
+    "reinforcement.mixins.json"
+  ]
+}

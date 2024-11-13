@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "reinforcement:reinforced_stone_bricks",
+    "reinforcement:reinforced_concrete"
+  ]
+}

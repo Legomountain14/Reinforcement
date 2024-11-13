@@ -1,0 +1,229 @@
+{
+  "mod_elements": [
+    {
+      "name": "ReinforcedStoneBricks",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_stone_bricks",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/reinforcement/blockstates/reinforced_stone_bricks.json",
+          "src/main/java/org/legomountain14/reinforcement/block/ReinforcedStoneBricksBlock.java",
+          "src/main/resources/assets/reinforcement/models/item/reinforced_stone_bricks.json",
+          "src/main/resources/assets/reinforcement/models/block/reinforced_stone_bricks.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedStoneBricksRecipie",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_stone_bricks_recipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reinforcement/recipes/reinforced_stone_bricks_recipie.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedBlocks",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_blocks",
+      "metadata": {
+        "files": []
+      }
+    },
+    {
+      "name": "ReinforcedConcretePowder",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_concrete_powder",
+      "metadata": {
+        "files": [
+          "src/main/java/org/legomountain14/reinforcement/block/ReinforcedConcretePowderBlock.java",
+          "src/main/resources/assets/reinforcement/models/item/reinforced_concrete_powder.json",
+          "src/main/resources/assets/reinforcement/blockstates/reinforced_concrete_powder.json",
+          "src/main/resources/assets/reinforcement/models/block/reinforced_concrete_powder.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedConcretePowderRecipie",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_concrete_powder_recipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reinforcement/recipes/reinforced_concrete_powder_recipie.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedConcrete",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_concrete",
+      "metadata": {
+        "files": [
+          "src/main/java/org/legomountain14/reinforcement/block/ReinforcedConcreteBlock.java",
+          "src/main/resources/assets/reinforcement/models/block/reinforced_concrete.json",
+          "src/main/resources/assets/reinforcement/blockstates/reinforced_concrete.json",
+          "src/main/resources/assets/reinforcement/models/item/reinforced_concrete.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedConcreteRecipie",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_concrete_recipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reinforcement/recipes/reinforced_concrete_recipie.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedGlass",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/reinforcement/models/block/reinforced_glass.json",
+          "src/main/resources/assets/reinforcement/models/item/reinforced_glass.json",
+          "src/main/java/org/legomountain14/reinforcement/block/ReinforcedGlassBlock.java",
+          "src/main/resources/assets/reinforcement/blockstates/reinforced_glass.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedGlassRecipie",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_glass_recipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reinforcement/recipes/reinforced_glass_recipie.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedTintedGlass",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_tinted_glass",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/reinforcement/models/item/reinforced_tinted_glass.json",
+          "src/main/java/org/legomountain14/reinforcement/block/ReinforcedTintedGlassBlock.java",
+          "src/main/resources/assets/reinforcement/blockstates/reinforced_tinted_glass.json",
+          "src/main/resources/assets/reinforcement/models/block/reinforced_tinted_glass.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedTintedGlassRecipie",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_tinted_glass_recipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reinforcement/recipes/reinforced_tinted_glass_recipie.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedGlowstone",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_glowstone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/reinforcement/models/block/reinforced_glowstone.json",
+          "src/main/resources/assets/reinforcement/blockstates/reinforced_glowstone.json",
+          "src/main/java/org/legomountain14/reinforcement/block/ReinforcedGlowstoneBlock.java",
+          "src/main/resources/assets/reinforcement/models/item/reinforced_glowstone.json"
+        ]
+      }
+    },
+    {
+      "name": "ReinforcedGlowstoneRecipie",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforced_glowstone_recipie",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/reinforcement/recipes/reinforced_glowstone_recipie.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item_group.reinforcedblocks.reinforced_blocks": "Reinforced Blocks",
+      "block.reinforcement.reinforced_glowstone": "Reinforced Glowstone",
+      "block.reinforced_stone_bricks.reinforced_stone_bricks": "Reinforced Stone Bricks",
+      "block.reinforcement.reinforced_stone_bricks": "Reinforced Stone Bricks",
+      "block.reinforcement.reinforced_concrete_powder": "Reinforced Concrete Powder",
+      "block.reinforcedblocks.reinforced_concrete_powder": "Reinforced Concrete Powder",
+      "block.reinforcement.reinforced_concrete": "Reinforced Concrete",
+      "block.reinforcedblocks.reinforced_stone_bricks": "Reinforced Stone Bricks",
+      "block.reinforcement.reinforced_glass": "Reinforced Glass",
+      "block.reinforcement.reinforced_tinted_glass": "Reinforced Tinted Glass",
+      "item_group.reinforcement.reinforced_blocks": "Reinforced Blocks"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "reinforcement",
+    "modName": "Reinforcement",
+    "version": "1.0.0",
+    "description": "Adds a few reinforced block varients to the game.",
+    "author": "Legomountain14, mcreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "MIT License",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "org.legomountain14.reinforcement",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300452316
+}
